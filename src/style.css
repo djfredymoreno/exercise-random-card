@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+p {
+  margin: 0;
+}
+
+#target {
+  background-color: white;
+  border-radius: 5%;
+}
+
+.card {
+  font-size: 6em;
+  border: none;
+}
+
+.suit {
+  font-size: 4em;
+}
